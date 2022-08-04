@@ -85,6 +85,7 @@ A centralized Repo with all the resources I find in my studies. Cheat sheets, ma
 - Cheat sheet for curl - https://www.booleanworld.com/curl-command-tutorial-examples/
 
 ### Usefull Github repos:
+- Awesome Regex Resources - https://github.com/Varunram/Awesome-Regex-Resources
 
 ### Misc:
 - Online Hash Cracker - https://crackstation.net/
