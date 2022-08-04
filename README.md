@@ -3,24 +3,24 @@ A centralized Repo with all the resources I find in my studies. Cheat sheets, ma
 
 Pentesting Resources
 Learning:
-  CTF Resources:
+CTF Resources:
 - CTFtime (track all major CTF events) - https://ctftime.org/
 - Hack The Box - https://app.hackthebox.com/home
 - TryHackMe - https://tryhackme.com/dashboard
 - Blue Team facing TryHackMe - https://cyberdefenders.org/blueteam-ctf-challenges/
     
-  XSS:
+XSS:
 - Learn XSS Hands on - https://xss.pwnfunction.com/
 - XSS finding tool - https://xsshunter.com/
   
-  Vulnerability/Hacking:
+Vulnerability/Hacking:
 - Explaining majors popular hacks hands on - https://www.hacksplaining.com/lessons
     
- Regex:
+Regex:
 - https://www.notion.so/Intro-to-Regular-Expressions-853550f27e6a447b8f552499ff6c4bfd
     
 Tools:
-  Enumeration:
+Enumeration:
 - Linux local enumeration tool - LinEnum https://github.com/rebootuser/LinEnum
 - Linux local quick vuln scanner - LinPEAS https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
 - Linux Smart enumeration - https://github.com/linted/linuxprivchecker
@@ -35,14 +35,14 @@ Misc:
 - Log4j malicious history tool - https://github.com/Neo23x0/log4shell-detector/
 - Crontab generator - https://crontab-generator.org/
 - URL that tracks info on people that click it - https://grabify.link/
-		Free Books - https://u1lib.org/
-		Blog about social engineering - https://mstefanc.com/2022/03/20/social-engineering-playing-with-human-vulnerabilities/
-		Resource that makes Regulation Compliance easier to understand - https://www.cmmc-coa.com/useful-stuff
+- Free Books - https://u1lib.org/
+- Blog about social engineering - https://mstefanc.com/2022/03/20/social-engineering-playing-with-human-vulnerabilities/
+- Resource that makes Regulation Compliance easier to understand - https://www.cmmc-coa.com/useful-stuff
     
 Vulnerability Scanners:
 - WordPress Security Audit (Black box  WP Vulnerability Scanner) - https://wpscan.com/wordpress-security-scanner
 Cheat Sheets:
-	Priv Esc:
+Priv Esc:
 - Windows Priv Esc - https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation
 - Windows Priv Esc based on default binaries - https://lolbas-project.github.io/#
 - Linux Priv Esc based on default binaries - https://gtfobins.github.io/
@@ -52,7 +52,7 @@ Cheat Sheets:
 - Windows Priv Esc - https://jlajara.gitlab.io/Potatoes_Windows_Privesc
 		
 		
-	Mobile:
+Mobile:
 - Mobile hacking cheatsheet - https://github.com/randorisec/MobileHackingCheatSheet
     
 Exploit:
@@ -70,7 +70,7 @@ Payloads:
 - Reverse PHP shell - https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
 - XSS Payloads - http://www.xss-payloads.com/
     
- Phishing/Social Engineering:
+Phishing/Social Engineering:
 - PHP Phishing page - https://gist.github.com/AlexLynd/7fcced41f9a998dea72010ed2f73e679
     
     
