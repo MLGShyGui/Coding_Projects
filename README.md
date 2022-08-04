@@ -84,10 +84,10 @@ Incident Response/Phishing Triage:
 		CTF Style Labs geared towards learning memory forensics - https://github.com/stuxnet999/MemLabs
 		Computer Forensic Reference DataSet Portal - https://cfreds.nist.gov/
 		
-Wordlists:
+- Wordlists:
     SecLists - https://github.com/danielmiessler/SecLists
 
-Practice:
+1. Practice:
     BurpSuite - https://portswigger.net/web-security/all-labs
     Metasploit - https://www.offensive-security.com/metasploit-unleashed/
     
