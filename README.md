@@ -75,17 +75,17 @@ Payloads:
     
     
 Incident Response/Phishing Triage:
-    Tsurugi Linux (OS Geared towards IR. Software write blocker, tons of free software. Good for investigating host image) https://tsurugi-linux.org/
-    Incident Response Plan - https://github.com/guardsight/gsvsoc_cybersecurity-incident-response-plan
-    Incident Response BattleCards - https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards
-    Open Source Security Guide - https://github.com/mikeroyal/Open-Source-Security-Guide
-		Detecting Linux Anti-forensics - https://www.inversecos.com/2022/06/detecting-linux-anti-forensics-log.html
-    Malware Analysis Training with labs (PCAP analysis) - https://www.malware-traffic-analysis.net/
-		CTF Style Labs geared towards learning memory forensics - https://github.com/stuxnet999/MemLabs
-		Computer Forensic Reference DataSet Portal - https://cfreds.nist.gov/
+- Tsurugi Linux (OS Geared towards IR. Software write blocker, tons of free software. Good for investigating host image) https://tsurugi-linux.org/
+- Incident Response Plan - https://github.com/guardsight/gsvsoc_cybersecurity-incident-response-plan
+- Incident Response BattleCards - https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards
+- Open Source Security Guide - https://github.com/mikeroyal/Open-Source-Security-Guide
+- Detecting Linux Anti-forensics - https://www.inversecos.com/2022/06/detecting-linux-anti-forensics-log.html
+- Malware Analysis Training with labs (PCAP analysis) - https://www.malware-traffic-analysis.net/
+- CTF Style Labs geared towards learning memory forensics - https://github.com/stuxnet999/MemLabs
+- Computer Forensic Reference DataSet Portal - https://cfreds.nist.gov/
 		
-- Wordlists:
-    SecLists - https://github.com/danielmiessler/SecLists
+Wordlists:
+- SecLists - https://github.com/danielmiessler/SecLists
 
 1. Practice:
     BurpSuite - https://portswigger.net/web-security/all-labs
