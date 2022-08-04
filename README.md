@@ -34,7 +34,10 @@ Tools:
     Log4j malicious history tool - https://github.com/back2root/log4shell-rex
     Log4j malicious history tool - https://github.com/Neo23x0/log4shell-detector/
     Crontab generator - https://crontab-generator.org/
-    
+    URL that tracks info on people that click it - https://grabify.link/
+		Free Books - https://u1lib.org/
+		Blog about social engineering - https://mstefanc.com/2022/03/20/social-engineering-playing-with-human-vulnerabilities/
+		Resource that makes Regulation Compliance easier to understand - https://www.cmmc-coa.com/useful-stuff
     
   Vulnerability Scanners:
     WordPress Security Audit (Black box  WP Vulnerability Scanner) - https://wpscan.com/wordpress-security-scanner
@@ -45,8 +48,13 @@ Cheat Sheets:
     Windows Priv Esc based on default binaries - https://lolbas-project.github.io/#
     Linux Priv Esc based on default binaries - https://gtfobins.github.io/
     Linux Priv Checker - https://github.com/linted/linuxprivchecker
-    Windows Esc Fundamentals cheat sheet - http://www.fuzzysecurity.com/tutorials/16.html
+    Basic Linux Esc Check list - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+		Windows Esc Fundamentals cheat sheet - http://www.fuzzysecurity.com/tutorials/16.html
     Windows Priv Esc - https://jlajara.gitlab.io/Potatoes_Windows_Privesc
+		
+		
+	Mobile:
+		Mobile hacking cheatsheet - https://github.com/randorisec/MobileHackingCheatSheet
     
 Exploit:
     Linux Exploit Suggester - https://github.com/linted/linuxprivchecker
@@ -72,7 +80,11 @@ Incident Response/Phishing Triage:
     Incident Response Plan - https://github.com/guardsight/gsvsoc_cybersecurity-incident-response-plan
     Incident Response BattleCards - https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards
     Open Source Security Guide - https://github.com/mikeroyal/Open-Source-Security-Guide
-    
+		Detecting Linux Anti-forensics - https://www.inversecos.com/2022/06/detecting-linux-anti-forensics-log.html
+    Malware Analysis Training with labs (PCAP analysis) - https://www.malware-traffic-analysis.net/
+		CTF Style Labs geared towards learning memory forensics - https://github.com/stuxnet999/MemLabs
+		Computer Forensic Reference DataSet Portal - https://cfreds.nist.gov/
+		
 Wordlists:
     SecLists - https://github.com/danielmiessler/SecLists
 
@@ -80,4 +92,11 @@ Practice:
     BurpSuite - https://portswigger.net/web-security/all-labs
     Metasploit - https://www.offensive-security.com/metasploit-unleashed/
     
+
+Detection Engineering Sites:
+		Evasion techniques (YARA rules, code snippets, techniques) - https://unprotect.it/
+		
+Programming Resources:
+		Cheat sheet for curl - https://www.booleanworld.com/curl-command-tutorial-examples/
+
 Usefull Github repos:
