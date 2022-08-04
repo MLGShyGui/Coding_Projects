@@ -28,8 +28,8 @@ Tools:
     Personal Website gererated for payload responses - https://webhook.site
     
     
-  Misc:
-    Online Hash Cracker - https://crackstation.net/
+Misc:
+	Online Hash Cracker - https://crackstation.net/
     Site Source code rippper/local copy - https://www.httrack.com/
     Log4j malicious history tool - https://github.com/back2root/log4shell-rex
     Log4j malicious history tool - https://github.com/Neo23x0/log4shell-detector/
@@ -39,18 +39,17 @@ Tools:
 		Blog about social engineering - https://mstefanc.com/2022/03/20/social-engineering-playing-with-human-vulnerabilities/
 		Resource that makes Regulation Compliance easier to understand - https://www.cmmc-coa.com/useful-stuff
     
-  Vulnerability Scanners:
-    WordPress Security Audit (Black box  WP Vulnerability Scanner) - https://wpscan.com/wordpress-security-scanner
-  
+Vulnerability Scanners:
+	WordPress Security Audit (Black box  WP Vulnerability Scanner) - https://wpscan.com/wordpress-security-scanner
 Cheat Sheets:
-  Priv Esc:
-    Windows Priv Esc - https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation
-    Windows Priv Esc based on default binaries - https://lolbas-project.github.io/#
-    Linux Priv Esc based on default binaries - https://gtfobins.github.io/
-    Linux Priv Checker - https://github.com/linted/linuxprivchecker
-    Basic Linux Esc Check list - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
-		Windows Esc Fundamentals cheat sheet - http://www.fuzzysecurity.com/tutorials/16.html
-    Windows Priv Esc - https://jlajara.gitlab.io/Potatoes_Windows_Privesc
+	Priv Esc:
+	Windows Priv Esc - https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation
+	Windows Priv Esc based on default binaries - https://lolbas-project.github.io/#
+	Linux Priv Esc based on default binaries - https://gtfobins.github.io/
+	Linux Priv Checker - https://github.com/linted/linuxprivchecker
+	Basic Linux Esc Check list - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+	Windows Esc Fundamentals cheat sheet - http://www.fuzzysecurity.com/tutorials/16.html
+	Windows Priv Esc - https://jlajara.gitlab.io/Potatoes_Windows_Privesc
 		
 		
 	Mobile:
