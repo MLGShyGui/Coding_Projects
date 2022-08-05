@@ -87,6 +87,9 @@ A centralized Repo with all the resources I find in my studies. Cheat sheets, ma
 ### Usefull Github repos:
 - Awesome Regex Resources - https://github.com/Varunram/Awesome-Regex-Resources
 - A recursive large collection of specialized resources - https://github.com/jnv/lists
+- https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-securitypentesting
+- https://github.com/jivoi/awesome-osint
+- 
 
 ### Misc:
 - Online Hash Cracker - https://crackstation.net/
