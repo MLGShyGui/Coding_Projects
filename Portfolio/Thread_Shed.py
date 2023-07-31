@@ -106,17 +106,23 @@ green&white;,;09/15/17,   Gail Phelps   ;,;$30.52
 ;,;   $22.66   ;,; green&white&blue;,;09/15/17"""
 
 #------------------------------------------------
-# Start coding below!
 
+# Replace the ;,; with + so I can split on the , which is what seperates each transaction.
 daily_sales_replaced = daily_sales.replace(";,;", "+")
 daily_sales_split = daily_sales_replaced.split(",")
+
+# Creating a list and seperating each part of the transaction.
 daily_transactions_split = []
 for i in daily_sales_split:
   daily_transactions_split.append(i.split("+"))
+
+# Removing all the white spaces from each element
 transactions_clean = []  
 for i in daily_transactions_split:
   for j in i:
     transactions_clean.append(j.strip())
+
+# Seperating the customers, sale amount, and thread sold into their own lists from the transaction list.
 customers = []
 sales = []
 thread_sold = []
@@ -126,11 +132,16 @@ for i in range(1, len(transactions_clean), 4):
   sales.append(transactions_clean[i])
 for i in range(2, len(transactions_clean), 4):
   thread_sold.append(transactions_clean[i])
+
+# Adding all the sale amounts into one sales total for the day.
 total_sales = 0
 for i in sales:
   i = i.strip("$")
   total_sales += float(i)
 total_sales = round(total_sales, 2)
+
+# Some transactions had multiple thread colors sold. This portion loops through the threads sold list, adds the single thread transactions into a new list, then splits the multi-thread transactions into single
+# thread transactions, then adds these new single thread transactions into the new list.
 thread_sold_split = []
 temp = []
 for i in thread_sold:
@@ -140,15 +151,22 @@ for i in thread_sold:
     temp = i.split("&")
     for j in temp:
       thread_sold_split.append(j)
+
+# Creates a function that will return the amount of times a color was seen in the list.
 def color_count(color):
   count = 0
   for i in thread_sold_split:
     if i == color:
       count+=1
   return count
+
+# Creates a list of unique thread colors sold. It runs each of these colors through the thread sold list, counts the total occurances of that thread sold, and adds its number behind it in the list.
 colors = ["red", "yellow", "green", "white", "black", "blue", "purple"]
 for i in range(0, len(colors) *2 , 2):
   colors_count = color_count(colors[i])
   colors.insert(i+1, colors_count)
 # ['red', 24, 'yellow', 34, 'green', 30, 'white', 28, 'black', 'blue', 'purple']
+
+# Displays a cleaned up version showing how many of each thread was sold, the total sales for the day, and how many customers were sold to.
 print("Today we sold {0} {1} thread, {2} {3} thread, {4} {5} thread, {6} {7} thread, {8} {9} thread, {10} {11} thread, and {12} {13} thread. We made ${14} and had {15} unique customers".format(colors[0], colors[1], colors[2], colors[3], colors[4], colors[5], colors[6], colors[7], colors[8], colors[9], colors[10], colors[11], colors[12], colors[13], total_sales, len(customers)))
+# The next step of this program is to impliment it with files instead of a large block of text.
