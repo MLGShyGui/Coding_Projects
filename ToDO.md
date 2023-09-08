@@ -4,7 +4,7 @@
 3. Check for sus scripts and text files
 4. Inspect files for hard-coded creds
 5. Login as DA
-   https://www.youtube.com/watch?v=y7FRIEURJ34
+6. Helpful Resource: https://www.youtube.com/watch?v=y7FRIEURJ34
 
 # C2 Server usable to assist in your pentests
 - Catches shells
@@ -13,7 +13,7 @@
 - Data exfiltration
 - Managing persistence
 - ETC
-  https://ko-fi.com/s/0c3776a2a0
+- Helpful Resource: https://ko-fi.com/s/0c3776a2a0
 
 # AppSec Scanner & Defense testing
 1. Scan a target
@@ -21,7 +21,7 @@
 3. Gradually harden the target
 4. Keep scanning
 5. Analysis & documentation of findings
-  https://www.youtube.com/watch?v=y7FRIEURJ34
+6. Helpful Resource: https://www.youtube.com/watch?v=y7FRIEURJ34
 
 # Keystroke dynamics tracker
 - Create a script that learns a users typing habits and creates an alert when that user is typing.
